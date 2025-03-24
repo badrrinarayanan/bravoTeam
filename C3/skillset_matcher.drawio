@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Page-1" id="t_NdAwwZYzvsR7c-pC3h">
+    <mxGraphModel dx="2380" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7uCnUSEV0laj77l-rDpc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="810" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="130" width="380" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=arc;" edge="1" parent="1" source="7uCnUSEV0laj77l-rDpc-5" target="7uCnUSEV0laj77l-rDpc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-5" value="Jigsaw" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7uCnUSEV0laj77l-rDpc-6" target="7uCnUSEV0laj77l-rDpc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-6" value="Skillset retrieval adapter" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-8" value="Chatbot" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-9" value="Chatbot adapter" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7uCnUSEV0laj77l-rDpc-18" target="7uCnUSEV0laj77l-rDpc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-25" value="get matching&lt;div&gt;interviewers&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7uCnUSEV0laj77l-rDpc-23">
+          <mxGeometry x="0.1371" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7uCnUSEV0laj77l-rDpc-18" target="7uCnUSEV0laj77l-rDpc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-28" value="Sort list by relevance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7uCnUSEV0laj77l-rDpc-27">
+          <mxGeometry x="-0.0105" y="1" relative="1" as="geometry">
+            <mxPoint y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-18" value="Orchestrator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.656;exitY=0.033;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="7uCnUSEV0laj77l-rDpc-20" target="7uCnUSEV0laj77l-rDpc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-20" value="Matcher engine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="7uCnUSEV0laj77l-rDpc-21" target="7uCnUSEV0laj77l-rDpc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-21" value="Relevance sorter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-29" value="Matcher Engine - Based on given set of n skills, get matching interviewers for x/n skills (x defines some threshold)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="493" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-30" value="Relevance sorter - From source skillset and list of interviewers&#39; skillset, has logic to sort interviewer based on better relevance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="530" width="690" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-33" value="get interviewers by skillset" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7uCnUSEV0laj77l-rDpc-18" target="7uCnUSEV0laj77l-rDpc-9">
+          <mxGeometry x="-0.2632" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="360" as="sourcePoint" />
+            <mxPoint x="690" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="100" />
+              <mxPoint x="770" y="100" />
+              <mxPoint x="770" y="190" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7uCnUSEV0laj77l-rDpc-9" target="7uCnUSEV0laj77l-rDpc-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="360" as="sourcePoint" />
+            <mxPoint x="690" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7uCnUSEV0laj77l-rDpc-35" value="SKILLSET MATCHING SERVICE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
