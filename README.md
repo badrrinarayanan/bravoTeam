@@ -1,1 +1,2 @@
 # bravoTeam
+## Architecture Kata
