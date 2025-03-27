@@ -1,4 +1,4 @@
-# ADR-000: ADR template
+# ADR-004: Jigsaw interviewer profiles
 
 ## Date:
 2025-03-25

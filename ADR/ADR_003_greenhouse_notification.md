@@ -1,4 +1,4 @@
-# ADR-000: ADR template
+# ADR-003: Greenhouse notification
 
 ## Date:
 2025-03-25

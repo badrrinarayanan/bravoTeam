@@ -1,4 +1,4 @@
-# ADR-000: ADR template
+# ADR-004: Candidate preferred timeslot
 
 ## Date:
 2025-03-25

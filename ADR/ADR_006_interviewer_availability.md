@@ -1,4 +1,4 @@
-# ADR-000: ADR template
+# ADR-005: Interviewer availabiltiy
 
 ## Date:
 2025-03-25

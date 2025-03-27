@@ -1,4 +1,4 @@
-# ADR-000: ADR template
+# ADR-002: Candidate preferred skill selection
 
 ## Date:
 2025-03-25

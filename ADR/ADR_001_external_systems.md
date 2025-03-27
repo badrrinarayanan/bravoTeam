@@ -1,4 +1,4 @@
-# ADR-000: ADR template
+# ADR-001: External systems
 
 ## Date:
 2025-03-15
